@@ -1,1 +1,1 @@
-# pandu.md
+# pandu.my
